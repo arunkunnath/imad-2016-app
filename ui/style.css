@@ -18,7 +18,7 @@ body {
 
 .img-medium {
     height: 150px;
-    /*float: right;*/
+    float: right;
 }
 underline {
     text-decoration: underline;
